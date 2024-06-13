@@ -435,6 +435,8 @@ r5=(
   backboneelement
   resource
   domainresource
+  canonicalresource
+  metadataresource
   # primitive
   base64binary
   boolean

@@ -9,7 +9,7 @@ the FHIR website, but more easily accessible for use in other tools and systems.
 [FHIR]: https://www.hl7.org/fhir/
 [`StructureDefinition`]: https://www.hl7.org/fhir/structuredefinition.html
 
-# License
+## Licenses
 
 This repository does not own any of the structure-definitions that are included,
 and as such does not provide any license for them. Any tooling and scripts are
